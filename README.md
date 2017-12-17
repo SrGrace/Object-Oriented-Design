@@ -18,8 +18,8 @@ Order, Meal, Employee, Server, and Host etc**.
 
 Ask questions like...
 
-Which objects are members of which other objects? \\
-Do any objects inherit from any others? \\
+Which objects are members of which other objects? <br>
+Do any objects inherit from any others? <br>
 Are relationships one-to-many or many-to-many?
 
 For example, **Restaurant design**:
@@ -40,6 +40,7 @@ and how they relate to each other. Add and update some forgotten objects, if pos
 The singleton pattern ensures that a class has only one instance and ensures access to the instance through the application.
 **Example:**
 
+```java
 public class Restaurant 
 {
     private static Restaurant _instance = null;
@@ -52,12 +53,14 @@ public class Restaurant
         return _instance;
     }
 }
+```
 
 ### Factory Mathod
 
 The Factory Method offers an interface for creating an instance of a class, with its sub-classes deciding which class to instantiate.
 **Example:**
 
+```java
 public class CardGame
 {
     public static CardGame createCardGame(GameType type)
@@ -71,5 +74,5 @@ public class CardGame
         return null;
     }
 }
-
+```
 
