@@ -1,6 +1,6 @@
 # Object-Oriented-Design
 
-Object-Oriented system design!
+Object-Oriented system design i.e sketch out the classes and methods to implement technical problems or real-life objects.
 
 ## How to Approach
 
@@ -18,8 +18,8 @@ Order, Meal, Employee, Server, and Host etc**.
 
 Ask questions like...
 
-Which objects are members of which other objects?
-Do any objects inherit from any others?
+Which objects are members of which other objects? \\
+Do any objects inherit from any others? \\
 Are relationships one-to-many or many-to-many?
 
 For example, **Restaurant design**:
