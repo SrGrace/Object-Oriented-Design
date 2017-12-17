@@ -7,9 +7,6 @@ be frst allocated to a respondent who is free. If the respondent can't handle th
 If the manager is not free or not able to handle it, then the call should be escalated to a director. Design the classes and
 data structures for this problem. Implement a method dispatchCall () which assigns a call to the first available employee
 
-<br>
-<br>
-<br>
 
 ## [Solution](https://github.com/SrGrace/Object-Oriented-Design/blob/master/Call%20Center/CallCenter.cpp)
 <br>
