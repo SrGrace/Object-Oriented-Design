@@ -57,7 +57,7 @@ public class Restaurant
 
 ### Factory Mathod
 
-The Factory Method offers an interface for creating an instance of a class, with its sub-classes deciding which class to instantiate.
+The Factory Method offers an interface for creating an instance of a class, with its sub-classes deciding which class to instantiate.<br>
 **Example:**
 
 ```java
