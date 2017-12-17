@@ -1,6 +1,6 @@
 
 
-# Call Center:
+# Call Center
 
 Imagine you have a call center with three levels of employees: respondent, manager, and director. An incoming telephone call must 
 be frst allocated to a respondent who is free. If the respondent can't handle the call, he or she must escalate the call to a manager.
@@ -11,7 +11,7 @@ data structures for this problem. Implement a method dispatchCall () which assig
 <br>
 <br>
 
-##[OOPS Design i.e. Solution](https://github.com/SrGrace/Object-Oriented-Design/blob/master/Call%20Center/CallCenter.cpp)
+## [Solution](https://github.com/SrGrace/Object-Oriented-Design/blob/master/Call%20Center/CallCenter.cpp)
 <br>
 
 * All three ranks of employees have diﬀerent work to be done, so those specifc functions are profle specifc. We should keep these things 
