@@ -9,7 +9,6 @@ data structures for this problem. Implement a method dispatchCall () which assig
 
 
 ## [Solution](https://github.com/SrGrace/Object-Oriented-Design/blob/master/Call%20Center/CallCenter.cpp)
-<br>
 
 * All three ranks of employees have diﬀerent work to be done, so those specifc functions are profle specifc. We should keep these things 
 within their respective class.
