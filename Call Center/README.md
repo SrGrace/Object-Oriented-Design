@@ -16,7 +16,7 @@ within their respective class.
 can be extended or inherited by others.
 * Finally, there should be one CallHandler class which would route the calls to the correct person.
 
-** Classes includes:**
+**Classes includes:**
 
 ```c++
 
