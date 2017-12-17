@@ -16,3 +16,20 @@ within their respective class.
 can be extended or inherited by others.
 * Finally, there should be one CallHandler class which would route the calls to the correct person.
 
+** Classes includes:**
+
+```c++
+
+class CallHandler {}
+
+class Call {}
+
+class Employee {}
+class Director : public Employee {}
+class Manager : public Employee {}
+class Respondent : public Employee {}
+
+```
+
+
+
