@@ -38,6 +38,7 @@ and how they relate to each other. Add and update some forgotten objects, if pos
 ### Singleton Class (Can interfere with unit testing)
 
 The singleton pattern ensures that a class has only one instance and ensures access to the instance through the application.<br>
+**OR** The singleton pattern is a design pattern that restricts the instantiation of a class to one object.<br>
 **Example:**
 
 ```java
