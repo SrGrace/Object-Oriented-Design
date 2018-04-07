@@ -25,6 +25,7 @@ class CallHandler {}
 class Call {}
 
 class Employee {}
+
 class Director : public Employee {}
 class Manager : public Employee {}
 class Respondent : public Employee {}
